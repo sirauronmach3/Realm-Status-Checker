@@ -1,5 +1,5 @@
 # Realm-Status-Checker
-GETs realm status from Blizzard API. Supports automating a checker with intention to 
+GETs realm status from Blizzard API. Supports automating a checker with intention to put into a web or phone based application.
 
 # Privacy Policy
 This application stores no data remotely. All data is pulled onto the device which runs it and can be deleted by the user in control of that device.
