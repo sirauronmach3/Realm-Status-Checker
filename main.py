@@ -4,3 +4,27 @@
 ##   if that server is down, show option to check server
 
 ## server checker will use the blizzard API to check server status, and create a notification when server comes up
+
+import sys
+
+def main() -> int:
+    # select region
+    regionList = getRegionList()
+    
+
+    return 0
+
+if __name__ == "__main__":
+    try:
+        sys.exit(main())
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        sys.exit(1)
+
+
+
+def getRegionList() -> list:
+    regionList = []
+
+
+    return regionList
